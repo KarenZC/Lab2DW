@@ -1,2 +1,2 @@
 # Lab2DW
-LAboratorio 2 parte 1
+Laboratorio 2 parte 1
