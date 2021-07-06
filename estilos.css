@@ -1,72 +1,63 @@
-
-        html{
-            background-color:dodgerblue;
-        }
-    header{
-  background-color:powderblue;
-  font-style: normal;
-  font-weight: bold;
-  font-family:arial;
-  margin-left:608px;
-  width: 790px;
-  border-style: ridge;
-  margin-right: 100px;
+html{
+    background-color:dodgerblue;
+}
+header{
+background-color:powderblue;
+font-style: normal;
+margin-left: 350px;
+font-weight: bold;
+font-family:arial;
+width: 790px;
+border-style: ridge;
 }
 .st{
-  text-align:center;
-  font-family:arial;
-  font-size: 20px;
+text-align:center;
+font-family:arial;
+font-size: 20px;
 }
 img{
-  border-style: dashed;
-  border-color:silver; 
-  margin-top:-95px;
-  margin-left: 650px;
-  align-content: center;
+border-style: dashed;
+border-color:silver; 
+margin-top:-95px;
+align-content: center;
 }
 
 .title{
-   text-align:center;
-   font-family: Arial;
-   font-size: 35px;
+text-align:center;
+font-family: Arial;
+font-size: 35px;
 }
 .subtitle{
-  font-family:arial;
+font-family:arial;
 }
 
 p{
-  font-family:arial;
-  
+font-family:arial;
+
 }
 
 .column-left{
-  background-color: powderblue;
-  padding: 20px;
-  margin-left:700px;
-  margin-right: 100px;
-  border-style: ridge;
-  float:right;
-  width: 750px;
+background-color: powderblue;
+padding: 20px;
+margin-left: 350px;
+border-style: ridge;
+width: 750px;
 }
 .column-right{
-    background-color: azure;
-    float: left;
-    margin-left: 170px;
-    margin-top:-1030px;
-    border-style: ridge;
-    width: 400px;
-    height: 550px;
-    text-align: center;
-    
-    }
+background-color: azure;
+border-style: ridge;
+margin-left: 350px;
+width: 790px;
+height: 550px;
+text-align: center;
+
+}
 .f{
-     background-color: azure;
-     float:none;
-    border-style: ridge;
-  border-color:silver; 
-     margin-top: 390px;
-    margin-left: 170px;
-    width: 400px;
-    height: 200px;
-    text-align: center;
-        }
+background-color: azure;
+border-style: ridge;
+margin-left: 350px;
+border-color:silver; 
+width: 790px;
+height: 200px;
+text-align: center;
+}
